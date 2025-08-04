@@ -36,9 +36,9 @@ except Exception as e:
     sys.exit(1)
 
 
-# --- 3️⃣ Data Cleaning ---
+# ---  Data Cleaning ---
 print("\n" + "="*80 + "\n")
-print("--- 3️⃣ Data Cleaning ---\n")
+print("---  Data Cleaning ---\n")
 
 # Tasks:
 # Filter countries of interest
